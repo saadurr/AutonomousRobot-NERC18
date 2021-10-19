@@ -1,0 +1,21 @@
+IR Sensors
+
+	Mid: 		460, 625 - yes
+
+	L1:		500, 750 - yes
+
+	L2: 		500, 740 - yes
+
+	R1: 		650, 820 - yes
+
+	R2: 		590, 825 - yes
+
+Servo:
+	Shaft:
+		Max = 2300 for extreme ccw
+		Min = 0 for extreme cw
+		Mid = 1300
+	Potter:
+		Closed: 1300
+		Closed: 1000, mid
+		Open:200
